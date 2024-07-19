@@ -1,0 +1,8 @@
+absl_py==2.1.0
+benchmark-mi
+jax==0.4.25
+numpy
+pytorch_lightning==2.2.1
+scikit_learn==1.4.1.post1
+torch==2.2.1
+torchvision==0.17.1
