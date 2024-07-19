@@ -18,7 +18,7 @@ All the possible argouments are:
 --lr                 #learning rate
 --num_heads          #transformer parameter
 --depth              #transformer parameter
---ckpt_path          #if one wants to resume training or make evaluation, the path of a checkpoint must be specified
+--ckpt_path          #to resume training or make evaluations, the path of a checkpoint must be specified
 --dataset            #choose on which dataset to carry out the experiment (Ising, XY,...)
 --dataset_path       #specify the path of a custom dataset to be used
 --resume_training    #if a checkpoint is given, this parameters allow to resume the training or go to evaluation
