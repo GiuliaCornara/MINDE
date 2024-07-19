@@ -8,6 +8,7 @@ To reproduce  the experiments:
 ```
 git clone https://github.com/GiuliaCornara/MINDE.git
 pip install -r /content/MINDE/requirements.txt
+cd /MINDE
 python3 -m entropy.entropy_test_1
 ```
 
